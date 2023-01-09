@@ -13,7 +13,7 @@
   "dependencies": {
     "@types/node": "^8.0.24",
     "electron-download": "^4.1.0",
-    "extract-zip": "^1.0.3"
+    "extract-zip": "^2.0.0"
   },
   "devDependencies": {
     "home-path": "^0.1.1",
